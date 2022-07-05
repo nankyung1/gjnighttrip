@@ -519,6 +519,9 @@ body{
     
         padding: 1px 10px;
     }
+    .content img{
+        display: inline-block;
+    }
    
     #map{
         width: 90%;
