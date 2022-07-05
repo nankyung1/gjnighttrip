@@ -519,12 +519,7 @@ body{
     
         padding: 1px 10px;
     }
-   .content ul li img{
-        display: inline-block;
-        clear: both;
-        width: 100%;
-
-    }
+   
     
     #map{
         width: 90%;
