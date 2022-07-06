@@ -466,7 +466,7 @@ body{
     height: 50px;
     border-radius: 50%;
     background-color: #ff9e10;
-   padding: 11px;
+   padding: 10px;
     box-sizing: border-box;
     position: fixed;
     bottom: 5%;
@@ -578,6 +578,7 @@ body{
     #top_inner h1 {
        display: block;
        text-align: center;
+       width: 80%;
        padding:10px;
     }
     #gnb{
