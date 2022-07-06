@@ -431,11 +431,10 @@ body{
 }
 
 .slide{
-    padding-top:50px;
     width:100%;/*이 너비에 따라 보이는 부분이 변화함*/
     position:fixed;
     right:-100%;
-    top:0;
+    top:76px;
     -webkit-transition: right .3s;
     -moz-transition: right .3s;
     -ms-transition: right .3s;
