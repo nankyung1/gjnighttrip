@@ -411,6 +411,7 @@ body{
     #top_inner h1 {
        display: block;
        text-align: center;
+       width: 100%;
     }
     #gnb{
         width: 100%;
@@ -480,6 +481,7 @@ body{
     #top_inner h1 {
        display: block;
        text-align: center;
+       width: 100%;
     }
     #gnb{
         display: none;
